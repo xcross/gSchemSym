@@ -177,13 +177,12 @@ pinseq=0
 }
 B 300 300 2800 3900 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
 T 295 5395 8 10 0 0 0 0 1
-footprint=so18
+footprint=SO16
 T 1595 2595 8 10 1 1 0 0 1
 refdes=U?
 T 1295 2295 8 10 1 1 0 0 1
 device=MAX3232
-T 295 4995 8 10 0 0 0 0 2
-description=3.0V to 5.5V, Low-Power, up to 1Mbps, True RS-232
-Transceivers Using Four 0.1µF External Capacitors
+T 295 4995 8 10 0 0 0 0 1
+description=3.0V to 5.5V, Low-Power, up to 1Mbps, True RS-232Transceivers Using Four 0.1µF External Capacitors
 T 295 4695 8 10 0 0 0 0 1
 documentation=http://datasheets.maximintegrated.com/en/ds/MAX3222-MAX3241.pdf
